@@ -1,4 +1,4 @@
 #!/bin/bash
 
 sleep 5 && killall -SIGUSR1 conky;
-sleep 5 && conky -c ~/.conky/conkyrc
+sleep 5 && conky -c ~/.conky/conkyrc;
